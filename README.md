@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 🔭 I’m currently working on building new skills  
-🌱 I’m currently learning Python - R - Cybersecurity and AI, and githHub of course ....
+🌱 I’m currently learning Python - R - Cybersecurity and AI  
+and githHub of course ....
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
