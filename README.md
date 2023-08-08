@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on building new skills
+🔭 I’m currently working on building new skills  
 🌱 I’m currently learning Python - R - Cybersecurity and AI, and githHub of course ....
 
 <picture>
